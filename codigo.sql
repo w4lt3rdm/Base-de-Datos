@@ -1,5 +1,5 @@
 /* 
-SELECT
+SELECT *
 Mostrar todos los registros de la tabla de movies.
 Mostrar el nombre, apellido y rating de todos los actores.
 Mostrar el título de todas las series.
